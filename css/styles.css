@@ -1,0 +1,19 @@
+#show-place {
+    display:none;
+}
+.place {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.place:hover {
+  text-decoration: underline;
+}
+#wrapper {
+  width : 400px;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+body {
+
+}
